@@ -8,40 +8,14 @@ Developer @ Medi Interface
 
 ### I code in
 
-<!-- C# -->
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 
-<!-- ASP.NET -->
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/asp-net.png"/>
-
-<!-- SQL Server Management Studio (SSMS) -->
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-
-<!-- PostgreSQL -->
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-
-<!-- HTML -->
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-
-<!-- CSS -->
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
-
-<!-- JavaScript -->
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/sql.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 
 
 ### IDE and Tools I Use
 <!-- Visual Studio -->
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
-<!-- Visual Studio Code -->
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-
-<!-- SQL Server Management Studio (SSMS) -->
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-
-<!-- pgAdmin -->
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 
 
 
